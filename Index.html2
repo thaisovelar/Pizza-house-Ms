@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pissa House - Mini Pizzas</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #fff8f0;
+      color: #333;
+      text-align: center;
+    }
+
+    header {
+      background-color: #e63946;
+      color: white;
+      padding: 30px 0;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 3em;
+    }
+
+    header p {
+      margin: 10px 0 0;
+      font-size: 1.2em;
+    }
+
+    .content {
+      padding: 40px 20px;
+    }
+
+    .content img {
+      width: 300px;
+      border-radius: 20px;
+      margin-bottom: 20px;
+    }
+
+    .button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 15px 25px;
+      background-color: #ffbe0b;
+      color: #000;
+      text-decoration: none;
+      border-radius: 10px;
+      font-weight: bold;
+      transition: background 0.3s;
+    }
+
+    .button:hover {
+      background-color: #f77f00;
+    }
+
+    footer {
+      background-color: #e63946;
+      color: white;
+      padding: 20px 0;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Pissa House</h1>
+    <p>As melhores mini pizzas da cidade!</p>
+  </header>
+
+  <div class="content">
+    <img src="https://images.unsplash.com/photo-1601924582975-7b7bfbf6b9d3" alt="Mini pizza deliciosa">
+    <h2>Mini no tamanho, gigante no sabor!</h2>
+    <p>Entrega rápida, ingredientes frescos e muito amor em cada pedacinho. Faça seu pedido agora!</p>
+    <a href="https://wa.me/SEUNUMEROAQUI" class="button">Pedir pelo WhatsApp</a>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Pissa House. Todos os direitos reservados.</p>
+  </footer>
+
+</body>
+</html>
